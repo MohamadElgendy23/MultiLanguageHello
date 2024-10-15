@@ -1,5 +1,4 @@
-Hello
-Tier: 1-Beginner
+MultiLanguageHello
 
 It is a given that applications must provide users with the functionality necessary to accomplish some task or goal. The effectiveness of app functionality is the first determinate of how users perceive the apps they use. However, it is not the only thing that influences user satisfaction.
 
